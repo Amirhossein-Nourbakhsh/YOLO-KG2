@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "knowledge graph construction from image.\nDataset : MS.COCO\nMethod: YOLO",
-    "intro": "EECS 6414",
+    "intro": "Knowledge Graph",
     "title": "Data Visualization"
   },
   "legend": {
